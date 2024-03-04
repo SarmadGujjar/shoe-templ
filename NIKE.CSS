@@ -1,0 +1,58 @@
+* {
+    padding: 0;
+    margin: O;
+}
+
+body {
+    background-color: pink;
+    align-items: center;
+    display: flex;
+    height: 100vh;
+    justify-content: center;
+}
+
+main {
+    background-color: white;
+    border: 2px solid pink;
+    display: flex;
+    flex-direction: row-reverse;
+    border-radius: 25px;
+    align-items: center;
+}
+
+button {
+    background-color: pink;
+    font-style: italic;
+    padding: 10px;
+    color: white;
+    border-radius: 10px;
+    font-size: medium;
+}
+button:hover{
+    background-color: rgb(237, 72, 72);
+    cursor: pointer;
+}
+
+p {
+    color: pink;
+}
+
+.para {
+    color: black;
+}
+
+h1 {
+    color: pink;
+}
+
+.one {
+    text-align: start;
+    background-color: white;
+    margin: 50px;
+}
+
+.two {
+    background-color: white;
+    height: 20%;
+
+}
